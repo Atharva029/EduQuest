@@ -72,5 +72,3 @@ The application uses MySQL for user authentication and data storage. Follow thes
    ```
 
 This will create the necessary database and tables for the application.
-
-## License
